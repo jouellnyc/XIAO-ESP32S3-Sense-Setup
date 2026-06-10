@@ -154,4 +154,9 @@ UDP is used instead of TCP because at this frame size each frame fits in a singl
 - **shariltumin** — various firmwares and pointers / help
 - Seeed Studio — [XIAO ESP32S3 hardware](https://wiki.seeedstudio.com/xiao_esp32s3_getting_started/)
 - Claude (Anthropic) — spent an evening(s) debugging OV3660 incompatibility, TCP frame artifacts, and RGB565 byte order before arriving at this guide
+- https://github.com/Seeed-Studio/wiki-documents/issues/4792
+
+
+
+
 
