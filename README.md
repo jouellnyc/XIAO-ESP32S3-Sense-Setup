@@ -111,6 +111,15 @@ pip install numpy opencv-python
 python stream_client.py
 ```
 
+The UI is .. not so great...here are some shortcuts..
+
+**Controls:**
+| Key | Action |
+|-----|--------|
+| `S` | Save timestamped JPEG snapshot |
+| `R` | Start / stop AVI video recording |
+| `ESC` | Quit |
+
 ---
 
 ## Troubleshooting
