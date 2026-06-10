@@ -10,7 +10,7 @@ Live wireless camera streaming: Seeed Studio XIAO ESP32S3 Sense with MicroPython
 
 ## Hardware
 
-- Seeed Studio XIAO ESP32S3 Sense (with OV3660 camera)
+- [Seeed Studio XIAO ESP32S3 Sense (with OV3660 camera)](https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html)
 - USB-C cable (data, not charge-only)
 - Linux/Mac/Windows PC
 - WiFi network
