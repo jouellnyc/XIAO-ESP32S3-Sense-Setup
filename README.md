@@ -143,6 +143,15 @@ Use UDP (this guide). TCP fragmentation causes frame boundary drift that produce
 **`I2C devices found: []`**
 Camera ribbon cable not fully seated. Unplug USB, pop the expansion board off and back on firmly, replug.
 
+**`ModuleNotFoundError: No module named 'cv2'` or `AttributeError: module 'cv2' has no attribute 'cvtColor'`**
+
+The headless and full opencv packages conflict. Clean install:
+```bash
+pip uninstall opencv-python opencv-python-headless --break-system-packages
+rm -rf ~/.local/lib/python3.12/site-packages/cv2
+pip install --force-reinstall opencv-python --break-system-packages
+```
+
 ---
 
 ## How It Works
