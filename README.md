@@ -4,6 +4,8 @@ Live wireless camera streaming from the Seeed Studio XIAO ESP32S3 Sense using Mi
 
 > **⚠️ Important:** It appears current production XIAO ESP32S3 Sense boards ship with an **OV3660** camera sensor, not OV2640. The official Seeed MicroPython wiki and kaki5 firmware are broken for these boards. This guide uses the correct firmware.
 
+<img width="654" height="486" alt="image" src="https://github.com/user-attachments/assets/10e687a6-08ea-40fe-9457-5bec652568bb" />
+
 ---
 
 ## Hardware
