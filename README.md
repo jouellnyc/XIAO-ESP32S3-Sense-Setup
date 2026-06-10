@@ -1,4 +1,4 @@
-# XIAO ESP32S3 Sense — MicroPython WiFi Camera Streaming Setup
+# XIAO ESP32S3 Sense  MicroPython WiFi Camera Streaming HOWTO 
 
 Live wireless camera streaming: Seeed Studio XIAO ESP32S3 Sense with MicroPython over UDP to a Python/OpenCV client on your PC.
 
